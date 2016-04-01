@@ -1,37 +1,19 @@
 var brain = require('brain');
 var net = new brain.NeuralNetwork();
+var fs = require('fs');
+var data = JSON.parse(fs.readFileSync('./outpuData.json', 'utf8'));
 
-var data = [
-    //input:[open,high,low,close]
-    //output:[next day close]
-    {
-        input: [.63],
-        output: [.77]
-    },
-    {
-        input: [.47],
-        output: [.75]
-    },
-    {
-        input: [.50],
-        output: [.76]
-    },
-    {
-        input: [.63],
-        output: [.82]
-    },
-    {
-        input: [.53],
-        output: [.80]
-    }
-]
+console.log(JSON.stringify(data[0]));
 
 net.train(data, {
-    errorThresh: .0001,
-    iterations: 200000,
+    errorThresh: .00001,
+    iterations: 400000,
     log: true,
     logPeriod: 1000,
-    learningRate: .3
+    learningRate: .1,
+    hiddenLayers: [2, 3, 4, 5, 6]
 })
 
 console.log(net.run([.43]) * 100);
+
+//console.log(JSON.stringify(net.toJSON()));
