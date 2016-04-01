@@ -1,7 +1,7 @@
 var brain = require('brain');
 var net = new brain.NeuralNetwork();
 var fs = require('fs');
-var data = JSON.parse(fs.readFileSync('./outpuData.json', 'utf8'));
+var data = fs.readFileSync('./outputData.json', 'utf8');
 
 console.log(JSON.stringify(data[0]));
 

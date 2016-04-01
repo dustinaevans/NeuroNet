@@ -184,7 +184,9 @@
         "CO2": 681.5,
         "HumidityRatio": 0.00472807794966877
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 18,
@@ -195,7 +197,9 @@
         "CO2": 685,
         "HumidityRatio": 0.00472795137178073
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 19,
@@ -206,7 +210,9 @@
         "CO2": 685,
         "HumidityRatio": 0.0047454083970941
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 20,
@@ -217,7 +223,9 @@
         "CO2": 689,
         "HumidityRatio": 0.00472950615591001
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 21,
@@ -228,7 +236,9 @@
         "CO2": 689.5,
         "HumidityRatio": 0.00472950615591001
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 22,
@@ -239,7 +249,9 @@
         "CO2": 689,
         "HumidityRatio": 0.00472950615591001
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 23,
@@ -250,7 +262,9 @@
         "CO2": 691,
         "HumidityRatio": 0.00473907551474663
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 24,
@@ -261,7 +275,9 @@
         "CO2": 688,
         "HumidityRatio": 0.00474864516581148
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 25,
@@ -272,7 +288,9 @@
         "CO2": 689.5,
         "HumidityRatio": 0.00474864516581148
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 26,
@@ -283,7 +301,9 @@
         "CO2": 689,
         "HumidityRatio": 0.00471022404680625
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 27,
@@ -294,7 +314,9 @@
         "CO2": 685.666666666667,
         "HumidityRatio": 0.00471973499914952
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 28,
@@ -305,7 +327,9 @@
         "CO2": 687,
         "HumidityRatio": 0.00471973499914952
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 29,
@@ -316,7 +340,9 @@
         "CO2": 688,
         "HumidityRatio": 0.00471973499914952
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 30,
@@ -327,7 +353,9 @@
         "CO2": 670,
         "HumidityRatio": 0.0047067761580489
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 31,
@@ -338,7 +366,9 @@
         "CO2": 668.666666666667,
         "HumidityRatio": 0.00468754308384392
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 32,
@@ -349,7 +379,9 @@
         "CO2": 670,
         "HumidityRatio": 0.00469384871410812
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 33,
@@ -360,7 +392,9 @@
         "CO2": 667,
         "HumidityRatio": 0.00469384871410812
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 34,
@@ -371,7 +405,9 @@
         "CO2": 664.5,
         "HumidityRatio": 0.00467170776461751
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 35,
@@ -382,7 +418,9 @@
         "CO2": 670,
         "HumidityRatio": 0.00471104653252311
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 36,
@@ -393,7 +431,9 @@
         "CO2": 670.333333333333,
         "HumidityRatio": 0.00465269945869772
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 37,
@@ -404,7 +444,9 @@
         "CO2": 672,
         "HumidityRatio": 0.0046464328065348
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 38,
@@ -415,16 +457,20 @@
         "CO2": 658,
         "HumidityRatio": 0.00464073595878431
     },
-    output: [0]
+    output: {
+        0
+    }
 }, {
     input: {
         "number": 39,
-        "date": "2015-02-04 18:29:00",
+        "date": "2015-00003 18:29:00",
         "Temperature": 22.6,
         "Humidity": 27.445,
         "Light": 0,
         "CO2": 660.5,
         "HumidityRatio": 0.00465583283178072
     },
-    output: [0]
+    output: {
+        0
+    }
 }]
