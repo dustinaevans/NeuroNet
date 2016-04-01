@@ -1,7 +1,6 @@
 [{
     input: {
         "number": 1,
-        "date": "2015-02-04 17:51:00",
         "Temperature": 23.18,
         "Humidity": 27.272,
         "Light": 426,
@@ -12,7 +11,6 @@
 }, {
     input: {
         "number": 2,
-        "date": "2015-02-04 17:51:59",
         "Temperature": 23.15,
         "Humidity": 27.2675,
         "Light": 429.5,
@@ -23,7 +21,6 @@
 }, {
     input: {
         "number": 3,
-        "date": "2015-02-04 17:53:00",
         "Temperature": 23.15,
         "Humidity": 27.245,
         "Light": 426,
@@ -34,7 +31,6 @@
 }, {
     input: {
         "number": 4,
-        "date": "2015-02-04 17:54:00",
         "Temperature": 23.15,
         "Humidity": 27.2,
         "Light": 426,
@@ -45,7 +41,6 @@
 }, {
     input: {
         "number": 5,
-        "date": "2015-02-04 17:55:00",
         "Temperature": 23.1,
         "Humidity": 27.2,
         "Light": 426,
@@ -56,7 +51,6 @@
 }, {
     input: {
         "number": 6,
-        "date": "2015-02-04 17:55:59",
         "Temperature": 23.1,
         "Humidity": 27.2,
         "Light": 419,
@@ -67,7 +61,6 @@
 }, {
     input: {
         "number": 7,
-        "date": "2015-02-04 17:57:00",
         "Temperature": 23.1,
         "Humidity": 27.2,
         "Light": 419,
@@ -78,7 +71,6 @@
 }, {
     input: {
         "number": 8,
-        "date": "2015-02-04 17:57:59",
         "Temperature": 23.1,
         "Humidity": 27.2,
         "Light": 419,
@@ -89,7 +81,6 @@
 }, {
     input: {
         "number": 9,
-        "date": "2015-02-04 17:58:59",
         "Temperature": 23.1,
         "Humidity": 27.2,
         "Light": 419,
@@ -100,7 +91,6 @@
 }, {
     input: {
         "number": 10,
-        "date": "2015-02-04 18:00:00",
         "Temperature": 23.075,
         "Humidity": 27.175,
         "Light": 419,
@@ -111,7 +101,6 @@
 }, {
     input: {
         "number": 11,
-        "date": "2015-02-04 18:01:00",
         "Temperature": 23.075,
         "Humidity": 27.15,
         "Light": 419,
@@ -122,7 +111,6 @@
 }, {
     input: {
         "number": 12,
-        "date": "2015-02-04 18:02:00",
         "Temperature": 23.1,
         "Humidity": 27.1,
         "Light": 419,
@@ -133,7 +121,6 @@
 }, {
     input: {
         "number": 13,
-        "date": "2015-02-04 18:03:00",
         "Temperature": 23.1,
         "Humidity": 27.1666666666667,
         "Light": 419,
@@ -144,7 +131,6 @@
 }, {
     input: {
         "number": 14,
-        "date": "2015-02-04 18:04:00",
         "Temperature": 23.05,
         "Humidity": 27.15,
         "Light": 419,
@@ -155,7 +141,6 @@
 }, {
     input: {
         "number": 15,
-        "date": "2015-02-04 18:04:59",
         "Temperature": 23,
         "Humidity": 27.125,
         "Light": 419,
@@ -166,7 +151,6 @@
 }, {
     input: {
         "number": 16,
-        "date": "2015-02-04 18:06:00",
         "Temperature": 23,
         "Humidity": 27.125,
         "Light": 418.5,
@@ -177,7 +161,6 @@
 }, {
     input: {
         "number": 17,
-        "date": "2015-02-04 18:07:00",
         "Temperature": 23,
         "Humidity": 27.2,
         "Light": 0,
@@ -190,7 +173,6 @@
 }, {
     input: {
         "number": 18,
-        "date": "2015-02-04 18:08:00",
         "Temperature": 22.945,
         "Humidity": 27.29,
         "Light": 0,
@@ -203,7 +185,6 @@
 }, {
     input: {
         "number": 19,
-        "date": "2015-02-04 18:08:59",
         "Temperature": 22.945,
         "Humidity": 27.39,
         "Light": 0,
@@ -216,7 +197,6 @@
 }, {
     input: {
         "number": 20,
-        "date": "2015-02-04 18:10:00",
         "Temperature": 22.89,
         "Humidity": 27.39,
         "Light": 0,
@@ -229,7 +209,6 @@
 }, {
     input: {
         "number": 21,
-        "date": "2015-02-04 18:10:59",
         "Temperature": 22.89,
         "Humidity": 27.39,
         "Light": 0,
@@ -242,7 +221,6 @@
 }, {
     input: {
         "number": 22,
-        "date": "2015-02-04 18:11:59",
         "Temperature": 22.89,
         "Humidity": 27.39,
         "Light": 0,
@@ -255,7 +233,6 @@
 }, {
     input: {
         "number": 23,
-        "date": "2015-02-04 18:13:00",
         "Temperature": 22.89,
         "Humidity": 27.445,
         "Light": 0,
@@ -268,7 +245,6 @@
 }, {
     input: {
         "number": 24,
-        "date": "2015-02-04 18:14:00",
         "Temperature": 22.89,
         "Humidity": 27.5,
         "Light": 0,
@@ -281,7 +257,6 @@
 }, {
     input: {
         "number": 25,
-        "date": "2015-02-04 18:15:00",
         "Temperature": 22.89,
         "Humidity": 27.5,
         "Light": 0,
@@ -294,7 +269,6 @@
 }, {
     input: {
         "number": 26,
-        "date": "2015-02-04 18:16:00",
         "Temperature": 22.79,
         "Humidity": 27.445,
         "Light": 0,
@@ -307,7 +281,6 @@
 }, {
     input: {
         "number": 27,
-        "date": "2015-02-04 18:16:59",
         "Temperature": 22.79,
         "Humidity": 27.5,
         "Light": 0,
@@ -320,7 +293,6 @@
 }, {
     input: {
         "number": 28,
-        "date": "2015-02-04 18:17:59",
         "Temperature": 22.79,
         "Humidity": 27.5,
         "Light": 0,
@@ -333,7 +305,6 @@
 }, {
     input: {
         "number": 29,
-        "date": "2015-02-04 18:19:00",
         "Temperature": 22.79,
         "Humidity": 27.5,
         "Light": 0,
@@ -346,7 +317,6 @@
 }, {
     input: {
         "number": 30,
-        "date": "2015-02-04 18:20:00",
         "Temperature": 22.745,
         "Humidity": 27.5,
         "Light": 0,
@@ -359,7 +329,6 @@
 }, {
     input: {
         "number": 31,
-        "date": "2015-02-04 18:21:00",
         "Temperature": 22.7,
         "Humidity": 27.4633333333333,
         "Light": 0,
@@ -372,7 +341,6 @@
 }, {
     input: {
         "number": 32,
-        "date": "2015-02-04 18:22:00",
         "Temperature": 22.7,
         "Humidity": 27.5,
         "Light": 0,
@@ -385,7 +353,6 @@
 }, {
     input: {
         "number": 33,
-        "date": "2015-02-04 18:23:00",
         "Temperature": 22.7,
         "Humidity": 27.5,
         "Light": 0,
@@ -398,7 +365,6 @@
 }, {
     input: {
         "number": 34,
-        "date": "2015-02-04 18:23:59",
         "Temperature": 22.6666666666667,
         "Humidity": 27.4266666666667,
         "Light": 0,
@@ -411,7 +377,6 @@
 }, {
     input: {
         "number": 35,
-        "date": "2015-02-04 18:24:59",
         "Temperature": 22.7,
         "Humidity": 27.6,
         "Light": 0,
@@ -424,7 +389,6 @@
 }, {
     input: {
         "number": 36,
-        "date": "2015-02-04 18:26:00",
         "Temperature": 22.6,
         "Humidity": 27.4266666666667,
         "Light": 0,
@@ -437,7 +401,6 @@
 }, {
     input: {
         "number": 37,
-        "date": "2015-02-04 18:27:00",
         "Temperature": 22.6,
         "Humidity": 27.39,
         "Light": 0,
@@ -450,7 +413,6 @@
 }, {
     input: {
         "number": 38,
-        "date": "2015-02-04 18:28:00",
         "Temperature": 22.6,
         "Humidity": 27.3566666666667,
         "Light": 0,
@@ -463,7 +425,6 @@
 }, {
     input: {
         "number": 39,
-        "date": "2015-00003 18:29:00",
         "Temperature": 22.6,
         "Humidity": 27.445,
         "Light": 0,
